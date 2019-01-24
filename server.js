@@ -1,4 +1,6 @@
-// Base spotify authentication cloned from: https://github.com/spotify/web-api-auth-examples
+// Base spotify authentication code cloned from: https://github.com/spotify/web-api-auth-examples
+// Original copyright (c) Spotify with Apache-2.0 license
+// Modifications copyright (c) 2019 Markus Jylhänkangas
 
 let express = require('express'); // Express web server framework
 let request = require('request'); // "Request" library
