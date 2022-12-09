@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "cookie-parser": "^1.4.3",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "querystring": "^0.2.0",
     "request": "^2.88.0"
   }
